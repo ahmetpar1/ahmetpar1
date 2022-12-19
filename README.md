@@ -1,7 +1,6 @@
 # 💫 About Me:
 🖥️ I'm currently working freelancer<br>🖥️ I'm begin new working<br>🖥️ I'm web design and coder<br><br>
 
-🖥️ [website]: https://ahmetpar1.tk/ and [email]: mailto:me@ahmetpar1.tk to contact me
 
 
 
